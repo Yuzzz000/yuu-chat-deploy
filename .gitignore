@@ -1,0 +1,10 @@
+models/
+*.gguf
+*.pem
+*.key
+*.crt
+__pycache__/
+*.pyc
+.env
+nginx/
+
